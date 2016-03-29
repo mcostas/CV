@@ -85,6 +85,10 @@ INPUT /opt/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 INPUT /opt/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 INPUT /opt/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 INPUT /opt/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /opt/texlive/2014/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /opt/texlive/2014/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /opt/texlive/2014/texmf-dist/tex/latex/base/ts1enc.def
+INPUT /opt/texlive/2014/texmf-dist/tex/latex/base/ts1enc.def
 INPUT /opt/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /opt/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /opt/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
@@ -109,6 +113,8 @@ INPUT /opt/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT CV-gl.aux
 INPUT CV-gl.aux
 OUTPUT CV-gl.aux
+INPUT /opt/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT /opt/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /opt/texlive/2014/texmf-dist/tex/latex/lm/t1lmr.fd
 INPUT /opt/texlive/2014/texmf-dist/tex/latex/lm/t1lmr.fd
 INPUT /opt/texlive/2014/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
@@ -178,9 +184,13 @@ INPUT CV-gl.bbl
 INPUT CV-gl.bbl
 INPUT /opt/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /opt/texlive/2014/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
+INPUT /opt/texlive/2014/texmf-dist/tex/latex/lm/ts1lmss.fd
+INPUT /opt/texlive/2014/texmf-dist/tex/latex/lm/ts1lmss.fd
+INPUT /opt/texlive/2014/texmf-dist/fonts/tfm/public/lm/ts1-lmss10.tfm
 INPUT CV-gl.aux
 INPUT ./CV-gl.out
 INPUT ./CV-gl.out
+INPUT /opt/texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT /opt/texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /opt/texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT /opt/texlive/2014/texmf-dist/fonts/type1/public/lm/lmss10.pfb
