@@ -174,9 +174,9 @@ INPUT /opt/texlive/2014/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
 INPUT /opt/texlive/2014/texmf-dist/fonts/tfm/public/lm/lmsy7.tfm
 INPUT /opt/texlive/2014/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /opt/texlive/2014/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
+INPUT CV-gl.bbl
+INPUT CV-gl.bbl
 INPUT /opt/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT CV-gl.bbl
-INPUT CV-gl.bbl
 INPUT /opt/texlive/2014/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT CV-gl.aux
 INPUT ./CV-gl.out

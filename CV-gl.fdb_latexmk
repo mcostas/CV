@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex CV-gl"] 1459261875 "CV-gl.aux" "CV-gl.bbl" "CV-gl" 1459261896
+["bibtex CV-gl"] 1459270228 "CV-gl.aux" "CV-gl.bbl" "CV-gl" 1459270229
   "/opt/texlive/2014/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "CV-gl.aux" 1459261895 1929 dde0b3ce4b2306a90a99ed947f87b005 ""
+  "CV-gl.aux" 1459270228 2048 3c7d5ab415d0630f19da7124b20355e1 ""
   "CV-gl.bcf" 0 -1 0 ""
   "publications_gl.bib" 1459261733 5083 d5426ca6c89ef6813f28522d04f8d193 ""
   (generated)
-  "CV-gl.bbl"
   "CV-gl.blg"
-["pdflatex"] 1459261895 "CV-gl.tex" "CV-gl.pdf" "CV-gl" 1459261896
-  "./CV-gl.out" 1459261895 1440 bc11eb3e1b0a0e2c263d759edd7e7654 ""
+  "CV-gl.bbl"
+["pdflatex"] 1459270228 "CV-gl.tex" "CV-gl.pdf" "CV-gl" 1459270229
+  "./CV-gl.out" 1459270228 1784 192a586afff02f99da34d1147639e4c6 ""
   "./foto_yo.png" 1454422970 51345 d4cf3738a066ce350f2ba7af0798bace ""
   "/home/mcostas/.texmf/tex/latex/CV/moderncv.cls" 1396518151 17227 d49291cdad2555dc9662c30bc669fee2 ""
   "/home/mcostas/.texmf/tex/latex/CV/moderncvcolorgreen.sty" 1392894762 1013 e67ce008c0d862c7cc876c4dbf7c5fa8 ""
@@ -115,13 +115,13 @@
   "/opt/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1430303985 1502506 90fba4d29163585b4f3f900505727800 ""
   "/opt/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt" 1430304022 912514 813bef2a5ad0b8f4c8ad039bf2450a20 ""
   "/opt/texlive/2014/texmf.cnf" 1430303971 559 9166241617e213c7ff1c8ffe4dd042ff ""
-  "CV-gl.aux" 1459261895 1929 dde0b3ce4b2306a90a99ed947f87b005 ""
-  "CV-gl.bbl" 1459261875 3585 ae24741011be194c09510134617dc70a "bibtex CV-gl"
-  "CV-gl.out" 1459261895 1440 bc11eb3e1b0a0e2c263d759edd7e7654 ""
-  "CV-gl.tex" 1459261890 8318 31b221d0a9969227fc83161e4fbb9ea9 ""
+  "CV-gl.aux" 1459270228 2048 3c7d5ab415d0630f19da7124b20355e1 ""
+  "CV-gl.bbl" 1459270228 3585 ae24741011be194c09510134617dc70a "bibtex CV-gl"
+  "CV-gl.out" 1459270228 1784 192a586afff02f99da34d1147639e4c6 ""
+  "CV-gl.tex" 1459270223 9760 ea187c2d4aa65549a90baeba2af54c15 ""
   "foto_yo.png" 1454422970 51345 d4cf3738a066ce350f2ba7af0798bace ""
   (generated)
-  "CV-gl.pdf"
-  "CV-gl.out"
   "CV-gl.aux"
+  "CV-gl.out"
   "CV-gl.log"
+  "CV-gl.pdf"
