@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex CV-gl"] 1459352411 "CV-gl.aux" "CV-gl.bbl" "CV-gl" 1459352412
+["bibtex CV-gl"] 1459352411 "CV-gl.aux" "CV-gl.bbl" "CV-gl" 1459354351
   "/opt/texlive/2014/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "CV-gl.aux" 1459352411 2134 500e983ad4845b3e5c7029fd3560c17b ""
+  "CV-gl.aux" 1459354350 2134 500e983ad4845b3e5c7029fd3560c17b ""
   "CV-gl.bcf" 0 -1 0 ""
   "publications_gl.bib" 1459261733 5083 d5426ca6c89ef6813f28522d04f8d193 ""
   (generated)
   "CV-gl.bbl"
   "CV-gl.blg"
-["pdflatex"] 1459352411 "CV-gl.tex" "CV-gl.pdf" "CV-gl" 1459352412
-  "./CV-gl.out" 1459352411 1958 0f503d32c389802cda36f9ab8845fe42 ""
+["pdflatex"] 1459354348 "CV-gl.tex" "CV-gl.pdf" "CV-gl" 1459354351
+  "./CV-gl.out" 1459354350 1958 0f503d32c389802cda36f9ab8845fe42 ""
   "./foto_yo.png" 1454422970 51345 d4cf3738a066ce350f2ba7af0798bace ""
   "/home/mcostas/.texmf/tex/latex/CV/moderncv.cls" 1396518151 17227 d49291cdad2555dc9662c30bc669fee2 ""
   "/home/mcostas/.texmf/tex/latex/CV/moderncvcolorgreen.sty" 1392894762 1013 e67ce008c0d862c7cc876c4dbf7c5fa8 ""
@@ -121,13 +121,13 @@
   "/opt/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1430303985 1502506 90fba4d29163585b4f3f900505727800 ""
   "/opt/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt" 1430304022 912514 813bef2a5ad0b8f4c8ad039bf2450a20 ""
   "/opt/texlive/2014/texmf.cnf" 1430303971 559 9166241617e213c7ff1c8ffe4dd042ff ""
-  "CV-gl.aux" 1459352411 2134 500e983ad4845b3e5c7029fd3560c17b ""
+  "CV-gl.aux" 1459354350 2134 500e983ad4845b3e5c7029fd3560c17b ""
   "CV-gl.bbl" 1459352411 3585 ae24741011be194c09510134617dc70a "bibtex CV-gl"
-  "CV-gl.out" 1459352411 1958 0f503d32c389802cda36f9ab8845fe42 ""
-  "CV-gl.tex" 1459352399 11022 82e2f2dfcd8c9f81e80b9eb014f8eb75 ""
+  "CV-gl.out" 1459354350 1958 0f503d32c389802cda36f9ab8845fe42 ""
+  "CV-gl.tex" 1459354336 11046 164a86fb0f06d9ff3b86a39db17b425c ""
   "foto_yo.png" 1454422970 51345 d4cf3738a066ce350f2ba7af0798bace ""
   (generated)
   "CV-gl.log"
-  "CV-gl.out"
   "CV-gl.aux"
+  "CV-gl.out"
   "CV-gl.pdf"
