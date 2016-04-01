@@ -180,9 +180,9 @@ INPUT /opt/texlive/2014/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
 INPUT /opt/texlive/2014/texmf-dist/fonts/tfm/public/lm/lmsy7.tfm
 INPUT /opt/texlive/2014/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /opt/texlive/2014/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
+INPUT CV-es.bbl
+INPUT CV-es.bbl
 INPUT /opt/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT CV-es.bbl
-INPUT CV-es.bbl
 INPUT /opt/texlive/2014/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT /opt/texlive/2014/texmf-dist/tex/latex/lm/ts1lmss.fd
 INPUT /opt/texlive/2014/texmf-dist/tex/latex/lm/ts1lmss.fd
