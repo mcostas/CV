@@ -6,7 +6,7 @@
 % available at http://www.latex-project.org/lppl/.
 
 
-\documentclass[10pt,a4paper,sans]{moderncv}   % opciones posibles incluyen tamaño de fuente ('10pt', '11pt' and '12pt'), tamaño de papel ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' y 'landscape') y familia de fuentes ('sans' y 'roman')
+\documentclass[10pt,a4paper,sans]{moderncv}   % opciones posibles incluyen tama\~no de fuente ('10pt', '11pt' and '12pt'), tama\~no de papel ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' y 'landscape') y familia de fuentes ('sans' y 'roman')
 
 % temas de moderncv
 \moderncvstyle{classic}                        % las opciones de estilo son 'casual' (por omision),'classic', 'oldstyle' y 'banking'
@@ -21,16 +21,17 @@
 % ajustes para los margenes de pagina
 \usepackage[scale=0.87]{geometry}
 %\setlength{\hintscolumnwidth}{3cm}           % si desea cambiar el ando de la columna para las fechas
+\usepackage{textcomp}
 
 % datos personales
 \firstname{Miguel}
 \familyname{Costas Pi\~{n}\'o}
-\title{Curriculum Vitae, actualizado a marzo de 2014}
-\address{Calle Albari\~{n}o, 24, 2$^\circ$}{36630 - Cambados (Pontevedra)} % dato opcional, elimine la linea si no desea el dato
+\title{Curriculum Vitae, actualizado el 1 de abril de 2016}
+\address{R\'ua Albari\~{n}o, 24, 2$^\circ$}{36630 - Cambados (Galicia) - Spain} % dato opcional, elimine la linea si no desea el dato
 \mobile{(+34)~660~784~672}                            % dato opcional, elimine la linea si no desea el dato
-\email{miguel.costas@udc.es}%, m.costas@aol.com}                                 % dato opcional, elimine la linea si no desea el dato
+\email{miguel.costas@udc.es}                                 % dato opcional, elimine la linea si no desea el dato
 \extrainfo{Fecha de nacimiento: 28.11.1987}                    % dato opcional, elimine la linea si no desea el dato
-\photo[64pt][0pt]{foto_yo}                         % '64pt' es la altura a la que la imagen debe ser ajustada, 0.4pt es grosor del marco que lo contiene (eliga 0pt para eliminar el marco) y 'picture' es el nombre del archivo; dato opcional, elimine la linea si no desea el dato
+\photo[64pt][0pt]{foto_yo}                          % '64pt' es la altura a la que la imagen debe ser ajustada, 0.4pt es grosor del marco que lo contiene (eliga 0pt para eliminar el marco) y 'picture' es el nombre del archivo; dato opcional, elimine la linea si no desea el dato
 
 % para mostrar etiquetas numericas en la bibliografia (por omision no se muestran etiquetas), solo es util si desea incluir citas en en CV
 %\makeatletter
@@ -46,55 +47,52 @@
 \begin{document}
 %\begin{CJK*}{UTF8}{gbsn}                     % para redactar el CV en chino usando CJK
 \maketitle
-\section{Formaci\'on acad\'emica relevante}
+
+\section{Educaci\'on}
  % Los argumentos del 3 al 6 pueden permanecer vacios
- \cventry{2011--Actualidad}{[Cursando] Doctorado en Ingenier\'ia Civil, \'area de Mec\'anica de Medios Continuos y Teor\'ia de Estructuras}{Escuela T\'ecnica Superior de Ingenieros de Caminos, Canales y Puertos}{Universidade da Coru\~na}{}{Tesis: \textit{Modelizaci\'on computacional y optimizaci\'on estructural de sistemas met\'alicos e h\'ibridos de absorci\'on de impactos frontales en veh\'iculos.}} 
-\cventry{2005--2010}{Ingeniero de Caminos, Canales y Puertos}{Escuela T\'ecnica Superior de Ingenieros de Caminos, Canales y Puertos}{Universidade da Coru\~na}{}{Finalizada con media 1.7464 (RD 1497/87, 1267/94, 1044/2003) o 6.9598 (RD 1125/2003). N\'umero 11 de la promoci\'on, de un total de 95. Estancia Erasmus en la Syddansk Universitet (Odense, Dinamarca) realizando el Proyecto Final de Carrera.}
-\cventry{2005}{Grado profesional en M\'usica, especialidad de Piano}{Conservatorio Hist\'orico de Santiago de Compostela}{}{}{Terminado con m\'aximas calificaciones}
-% \cventry{2003--2005}{Bachilleratos cient\'ifico y tecnol\'ogico}{I.E.S. Francisco Asorey}{Cambados}{}{Finalizados con Matr\'icula de Honor} 
+\cventry{2011--2016}{Doctor Ingeniero de Caminos, Canales y Puertos, \'area de mec\'anica de los medios continuos y teor\'ia de estructuras}{ETSI Caminos, Canales y Puertos}{Universidade da Coru\~na}{}{Tesis: \textit{Crashworthiness analysis and design optimization of hybrid impact energy absorbers} Estancia predoctoral de seis meses en el Structural Impact Laboratory -- SIMLab (NTNU), con una beca de postgrado de la Fundaci\'on Barri\'e y el Cl\'uster de Empresas da Automoci\'on de Galicia (CEAGA). Menci\'on internacional, sobresaliente \emph{cum laude}.} 
+\cventry{2005--2010}{Ingeniero de Caminos, Canales y Puertos}{ETSI Caminos, Canales e Puertos}{Universidade da Coru\~na}{}{N\'umero 11 de una promoci\'on de 95. Estancia Erasmus en la Syddansk Universitet (Odense, Denmark).}
+\cventry{2005}{Grado profesional en M\'usica}{Conservatorio de Santiago de Compostela}{}{}{Especializaci\'on en piano y an\'alisis.}
 
 
-\section{Experiencia laboral relevante}
+\section{Experiencia laboral}
 
-\cventry{2011--Actualidad}{Ingeniero de Investigaci\'on}{Grupo de Mec\'anica de Estructuras, UDC}{}{}{Simulaci\'on y optimizaci\'on estructural de sistemas h\'ibridos composite-metal de absorci\'on de impactos}
-\cventry{Verano de 2009}{Estancia en Pr\'acticas}{Autoridad Portuaria de Vilagarc\'ia de Arousa (Puertos del Estado)}{}{}{Tareas de apoyo a la Direcci\'on de Infraestructuras}
+\cventry{2011--actualidad}{Ingeniero de Investigaci\'on}{Grupo de Mec\'anica de Estructuras, Universidade da Coru\~na}{}{}{Simulaci\'on y optimizaci\'on de sistemas h\'ibridos de absorci\'on de impactos.\\Modelado y an\'alisis computacional en 3D de los p\'endulos de fricci\'on del nuevo puente de 350 metros sobre el r\'io Chiche, en Ecuador.\\
+Modelado y an\'alisis computacional de tablestacas de fibra de vidrio.}
+\cventry{Verano de 2009}{Estancia en pr\'acticas}{Autoridad Portuaria de Vilagarc\'ia de Arousa (Puertos del Estado)}{}{}{Tareas de apoyo en la Direcci\'on de Infraestructuras.}
 
 \section{Experiencia docente}
-\cventry{Curso acad\'emico 2013-2014}{Asistente en la asignatura Puentes 1}{Escuela  T\'ecnica Superior de Ingenieros de Caminos, Canales y Puertos, UDC}{}{}{Tareas de apoyo al profesorado titular de la asignatura. Clases pr\'acticas.}
-
+\cventry{Curso 2015-2016}{Profesor de la materia 'C\'alculo Avanzado de Estructuras' en el M\'aster en Ingenier\'ia de Estructuras y Materiales Aeroespaciales, t\'itulo propio de la UDC.}{ETSECCP, UDC}{}{}{}
+\cventry{Curso 2013-2014}{Asistencia en las pr\'acticas da materia 'Puentes 1'}{ETSECCP, UDC}{}{}{}
 
 \section{Idiomas}
-\cvitemwithcomment{Espa\~nol}{Lengua materna}{}
-\cvitemwithcomment{Gallego}{Lengua materna}{}
-\cvitemwithcomment{Ingl\'es}{Nivel alto, C1}{Certificate in Advanced English, Cambridge University. A\~no 2012.}
-\cvitemwithcomment{Franc\'es}{Nivel medio, B1}{}
-\cvitemwithcomment{Portugu\'es}{Nivel b\'asico}{}
-
+\cvitemwithcomment{Espa\~nol}{Nativo}{}
+\cvitemwithcomment{Gallego}{Nativo}{}
+\cvitemwithcomment{Ingl\'es}{Competencia profesional completa, nivel C1}{Certificate in Advanced English, Cambridge University. 2012.}
+\cvitemwithcomment{Franc\'es}{Competencia profesional b\'asica, nivel B1}{}
+\cvitemwithcomment{Portugu\'es}{Competencia profesional b\'asica}{}
+\cvitemwithcomment{Noruego}{Habilidades b\'asicas}{Certificado oficial A1 (Bokm\r{a}l)}
 
 \section{Conocimientos de computaci\'on}
-\cvitem{C\'alculo de Estructuras}{Abaqus Standard y Explicit (nivel alto, 36 meses de experiencia), Ansys (nivel medio), SAP2000 (nivel medio), Cosmos/M (nivel medio).}
-\cvitem{Optimizaci\'on}{DAKOTA (24 meses de experiencia).}
-\cvitem{CAD}{Autocad (nivel alto).}
-\cvitem{Ofim\'atica}{Microsoft Office (nivel alto), edici\'on de textos cient\'ificos con \LaTeX (nivel medio).}
-\cvitem{Lenguajes de programaci\'on}{Python (nivel medio), Fortran (nivel medio), Bash (nivel b\'asico).}
-\cvitem{Sistemas operativos}{Microsoft Windows (nivel alto), Linux - distribuci\'on CentOS (nivel b\'asico).}
+\cvitem{An\'alisis estructural}{An\'alisis estructural con Abaqus Standard y Explicit. Conocimientos avanzados de simulaciones de choque con m\'etodo expl\'icito, incluyendo plasticidad y fractura en metales y materiales compuestos, contactos, uniones, etc. Experiencia con scripts de Python para pre- y post-proceso. Otros paquetes: ANSYS, SAP2000, Cosmos/M.D. Conocimientos avanzados de mec\'anica de medios continuos computacional.}
+\cvitem{Paquetes de optimizaci\'on}{Experiencia en optimizaci\'on estructural de elementos de absocri\'on de impactos utilizando diferentes bibliotecas de optimizaci\'on como DOT, SCOLIB, CONMIN, OPT++ y JEGA. Paquete Surfpack para metamodelado.}
+\cvitem{CAD}{Autocad}
+\cvitem{Programaci\'on}{Python, Fortran, Bash}
 
 
-\section{Otros datos de inter\'es}
-\cvlistitem{Permiso de conducci\'on clase B. Coche propio.}
+\section{Otros datos}
+\cvlistitem{Permiso de conducci\'on B1. Coche propio.}
 \cvlistitem{Profesor de piano y concertista profesional en activo.}
 
 \renewcommand{\listitemsymbol}{-~}            % para cambiar el simbolo para las listas
 
-\section{Patentes}
-\cvlistitem{Patente nacional 201200682: "Sitema h\'ibrido metal-composite para absorci\'on de energ\'ia en choque". Autores: Alberto Tielas, Isabel \'Alvarez, Raquel Ledo (Centro Tecnol\'oxico da Automoci\'on de Galicia, CTAG); Miguel Costas, Luis Esteban Romera (Universidade da Coru\~na, UDC). Admitida a tr\'amite a 2 de julio de 2012.}
+
 % Las publicaciones tomadas de un archivo de BibTeX sin usar multibib\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+
 
 \nocite{*}
 \bibliographystyle{unsrt}
-\bibliography{publications}                    % 'publications' es el nombre del archivo BibTeX
-
-
+\bibliography{publications_gl}                    % 'publications' es el nombre del archivo BibTeX
 
 % Las publicaciones tomadas de un archivo BibTeX usando el paquete multibib
 %\section{Publicaciones}
@@ -106,6 +104,35 @@
 %\bibliographymisc{publications}              % 'publications' es el nombre del archivo BibTeX
 
 %\clearpage\end{CJK*}                          % si esta redactando su CV en chino usando CJK, \clearpage es requerido por fancyhdr para que funcione correctamente con CJK, aunque esto eliminara la numeracion de pagina al dejar \lastpage como no definido
+
+\section{Participaci\'on en proyectos y contratos de investigaci\'on}
+\cvlistitem{[Proyecto europeo] FP7-AAT-2007-RTD-1. MAAXIMUS: More affordable Aircraft Structure through Extended, Integrated and Mature Numerical Sizing, UE, 03/2008-03/2013. Duraci\'on: años 2011-2015. Importe: 370000 \texteuro.}
+\cvlistitem{[Proyecto nacional] UNCL13-1E-2123. T\'unel de viento de capa l\'imite para aplicaciones de ingenier\'ia civil y aeron\'autica. Ministerio de Econom\'ia y Competitividad. Duraci\'on: ano 2014. Importe: 325000 \texteuro.}
+\cvlistitem{[Proyecto nacional] DURAPORT. Nuevas tecnolog\'ias para la construcci\'on de infraestructuras portuarias durables. CDTI, programa FEDER-INTERCONECTA, Ministerio de Econom\'ia y Competitividad, ref. 407.Duraci\'on: años 2011-2012. Importe: 40000 \texteuro.}
+\cvlistitem{[Proyecto nacional] DPI 2013-41893-R. OPTOPAER. Optimizaci\'on probabilista topol\'ogica y topom\'etrica de estructuras aeron\'auticas en r\'egimen lineal y no lineal. Ministerio de Econom\'ia y Competitividad. Duraci\'on: años 2014-2016. Importe: 53240 \texteuro.}
+\cvlistitem{[Proyecto auton\'omico] 09DPI-011118PR INCITE 2009. Dese\~no \'optimo de estruturas e compo\~nentes automobil\'isticos con materiais met\'alicos e compostos. Conseller\'ia de Econom\'ia e Industria. Duraci\'on: años 2009-2012. Importe: 45000 \texteuro.}
+\cvlistitem{[Proyecto auton\'omico] 10DPI025CT. Hybrid-Body: optimizaci\'on estructural de un sistema h\'ibrido para absorci\'on de energ\'ia en choque frontal con comprobaci\'on experimental y computacional. Conseller\'ia de Econom\'ia e Industria. Duraci\'on: años 2010-2012. Importe: 46000 \texteuro.}
+\cvlistitem{[Proyecto auton\'omico] GRC2013-056. Grupo de Referencia Competitiva. Conseller\'ia de Cultura, Educaci\'on e Ordenaci\'on Universitaria. Duraci\'on: años 2013-2016. Importe: 259000 \texteuro.}
+\cvlistitem{[Contratos de investigaci\'on con empresas] Con Puentes y Calzadas: C\'alculo s\'ismico en teor\'ia lineal y no lineal del puente sobre el r\'io Chiche en Ecuador. Ref. 443. Duraci\'on: ano 2013. Importe: 44504.77 \texteuro.}
+\cvlistitem{[Contratos de investigaci\'on con empresas] Con AIRBUS: Optimization study of rear fuselage. Duraci\'on: ano 2015. Importe: 25561.26 \texteuro.}
+\cvlistitem{[Contratos de investigaci\'on con empresas] Con AIRBUS: Junction modeling of nonlinear frequency response of assembled structures. Extension of 2012 activities. Duraci\'on: ano 2015. Importe: 24200 \texteuro.}
+
+\section{Patentes}
+\cvlistitem{Patente espa\~nola ES 2-386-269-B1: "Sitema h\'ibrido metal-composite para absorci\'on de energ\'ia en choque". Autores: Alberto Tielas, Isabel \'Alvarez, Raquel Ledo (Centro Tecnol\'oxico da Automoci\'on de Galicia, CTAG); Miguel Costas, Luis Esteban Romera (Universidade da Coru\~na, UDC). 11 de julio de 2013.}
+
+
+\section{Estancias de investigaci\'on}
+\cvlistitem{Estancia de investigaci\'on predoctoral desde el 1/10/2014 al 1/4/2015 (seis meses) en el Structural Impact Laboratory (NTNU, Trondheim, Noruega), bajo la direcci\'on de los profesores Magnus Langseth e David Morin.}
+
+\section{Reconocimientos y premios}
+\cvlistitem{Becario de la Fundaci\'on Barri\'e y el Cl\'uster de Empresas da Automoci\'on de Galicia en la convocatoria de becas de posgrado 2014 para la realizaci\'on de una estancia predoctoral en la NTNU (Noruega).}
+
+\section{Asesoramiento cient\'ifico}
+\cvlistitem{Revisor de las revistas JCR \emph{International Journal of Mechanical Sciences}, \emph{Materials and Design}, \emph{Journal of Reinforced Plastics and Composites} y \emph{Engineering Optimization}.}
+
+\section{Asesoramingeniero de Caminos, Canales y Puertosento acad\'emico}
+\cvlistitem{Miembro de la Comisi\'on de Reclamaciones de Plazas de PDI de la Universidade da Coru\~na, curso 2015-2016.}
+
 \end{document}
 
 

@@ -1,0 +1,89 @@
+\begin{thebibliography}{10}
+
+\bibitem{titulo}
+\textbf{Artigos de investigaci\'on en revistas JCR}.
+
+\bibitem{costas2016axial}
+M.~Costas, D.~Morin, M.~Langseth, L.~Romera, and J.~D{\'\i}az.
+\newblock Axial crushing of aluminum extrusions filled with {PET} foam and
+  {GFRP}. {A}n experimental investigation.
+\newblock {\em Thin-Walled Structures}, 99:45--57, 2016.
+
+\bibitem{paz2015size}
+J~Paz, J~D{\'\i}az, L~Romera, and M~Costas.
+\newblock Size and shape optimization of aluminum tubes with {GFRP} honeycomb
+  reinforcements for crashworthy aircraft structures.
+\newblock {\em Composite Structures}, 133:499--507, 2015.
+
+\bibitem{montoya2015multi}
+M~Cid Montoya, M~Costas, J~D{\'\i}az, LE~Romera, and S~Hern{\'a}ndez.
+\newblock A multi-objective reliability-based optimization of the
+  crashworthiness of a metallic-{GFRP} impact absorber using hybrid
+  approximations.
+\newblock {\em Structural and Multidisciplinary Optimization}, pages 1--17,
+  2015.
+
+\bibitem{Paz201430}
+J.~Paz, J.~D\'iaz, L.~Romera, and M.~Costas.
+\newblock Crushing analysis and multi-objective crashworthiness optimization of
+  {GFRP} honeycomb-filled energy absorption devices.
+\newblock {\em Finite Elements in Analysis and Design}, 91:30 -- 39, 2014.
+
+\bibitem{Costas201446}
+M.~Costas, J.~D\'iaz, L.~Romera, and S.~Hern\'andez.
+\newblock A multi-objective surrogate-based optimization of the crashworthiness
+  of a hybrid impact absorber.
+\newblock {\em International Journal of Mechanical Sciences}, 88:46--54, 2014.
+
+\bibitem{Costas_IJIE}
+M.~Costas, J.~D\'iaz, L.~E. Romera, S.~Hern\'andez, and A.~Tielas.
+\newblock Static and dynamic axial crushing analysis of car frontal impact
+  hybrid absorbers.
+\newblock {\em International Journal of Impact Engineering}, 62:166--181, 2013.
+
+\bibitem{titulo2}
+\textbf{Conferencias internacionais}.
+
+\bibitem{Costas_FISITA1}
+L.~Romera, M.~Costas, J.~D\'iaz, J.~Paz, and S.~Hern\'andez.
+\newblock Reduction of the frontal crash peak forces in a car using size
+  optimization tools.
+\newblock In {\em 35th FISITA World Automotive Congress, Maastrich
+  (Netherlands)}, 2014.
+
+\bibitem{Costas_FISITA2}
+J.~D\'iaz, M.~Costas, L.~Romera, J.~Paz, and S.~Hern\'andez.
+\newblock Surrogate-based multi-objective optimization of glass-fiber - steel
+  crash absorbers.
+\newblock In {\em 35th FISITA World Automotive Congress, Maastrich
+  (Netherlands)}, 2014.
+
+\bibitem{Costas_IABSE}
+L.~Romera, S.~Hern\'andez, M.~Costas, A.~Balomir, and P.~Ouro.
+\newblock Assessment of seismic behaviour of portal bridges with double
+  friction pendulum bearings.
+\newblock In {\em 7th IABSE Symphosium, Madrid (Spain)}, 2014.
+
+\bibitem{Costas_WIT2}
+L.~Romera, J.~Paz, M.~Costas, J.~D\'iaz, and S.~Hern\'andez.
+\newblock {Crashworthiness response of honeycomb metallic-GFRP energy
+  abpsortion devices}.
+\newblock In {\em HPSM/OPTI 2014, The 2014 International Conference on High
+  Performance and Optimum Design of Structures and Materials}, 2014.
+
+\bibitem{Costas_WIT}
+M.~Costas, L.~Romera, J.~D\'iaz, S.~Hern\'andez, and A.~Tielas.
+\newblock Computational and experimental analysis of a hybrid car impact
+  absorber.
+\newblock In {\em Computational Methods and Experimental Measurements XVI, WIT
+  Press, C.A. Brebbia, G. M. Carlomagno and S. Hernandez (eds.)}, pages
+  367--378, 2013.
+
+\bibitem{Costas_SAE}
+M.~Costas, J.~D\'iaz, L.~Romera, S.~Hern\'andez, and R.~Ledo.
+\newblock Influence of welded joints on the crashworthiness response of hybrid
+  structural elements.
+\newblock In {\em SAE 2013 World Congress and Exhibition, paper
+  13B-0036/2013-01-0755}, 2013.
+
+\end{thebibliography}
