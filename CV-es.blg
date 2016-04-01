@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: CV-es.aux
 The style file: unsrt.bst
-Database file #1: publications_gl.bib
+Database file #1: publications_es.bib
 Warning--empty title in titulo
 Warning--empty journal in titulo
 Warning--empty year in titulo
@@ -11,7 +11,7 @@ Warning--empty journal in titulo2
 Warning--empty year in titulo2
 You've used 14 entries,
             1791 wiz_defined-function locations,
-            522 strings with 6536 characters,
+            522 strings with 6541 characters,
 and the built_in function-call counts, 3305 in all, are:
 = -- 239
 > -- 203
