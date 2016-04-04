@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.29)  1 APR 2016 15:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.29)  4 APR 2016 17:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,9 +6,9 @@ entering extended mode
 (./CV-es.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 7 languages loaded.
-(/home/mcostas/.texmf/tex/latex/CV/moderncv.cls
-Document Class: moderncv 2012/10/31 v1.2.0 modern curriculum vitae and letter d
-ocument class
+(/home/mcostas/.texmf/tex/latex/CV_cls/moderncves.cls
+Document Class: moderncves 2012/10/31 v1.2.0 modern curriculum vitae and letter
+ document class
 (/opt/texlive/2014/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
@@ -183,7 +183,7 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/opt/texlive/2014/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
-(/home/mcostas/.texmf/tex/latex/CV/moderncvcompatibility.sty
+(/home/mcostas/.texmf/tex/latex/CV_cls/moderncvcompatibility.sty
 Package: moderncvcompatibility 2012/10/31 v1.2.0 modern curriculum vitae and le
 tter compatibility patches
 )
@@ -193,7 +193,7 @@ Package: suffix 2006/07/15 1.5a Variant command support
 \bibindent=\skip54
 
 (/home/mcostas/.texmf/tex/latex/tweaklist.sty))
-(/home/mcostas/.texmf/tex/latex/CV/moderncvstyleclassic.sty
+(/home/mcostas/.texmf/tex/latex/CV_cls/moderncvstyleclassic.sty
 Package: moderncvstyleclassic 2012/10/31 v1.2.0 modern curriculum vitae and let
 ter style scheme: classic
 \quotewidth=\skip55
@@ -213,7 +213,7 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 78.
 \cvitemwithcommentmainlength=\skip65
 \cvitemwithcommentcommentlength=\skip66
 )
-(/home/mcostas/.texmf/tex/latex/CV/moderncvcolorgreen.sty
+(/home/mcostas/.texmf/tex/latex/CV_cls/moderncvcolorgreen.sty
 Package: moderncvcolorgreen 2012/10/31 v1.2.0 modern curriculum vitae and lette
 r color scheme: green
 )
@@ -655,8 +655,8 @@ Package rerunfilecheck Info: File `CV-es.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  12443 strings out of 494921
- 181885 string characters out of 6178639
- 299822 words of memory out of 5000000
+ 181933 string characters out of 6178639
+ 299828 words of memory out of 5000000
  15408 multiletter control sequences out of 15000+600000
  56008 words of font info for 77 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
