@@ -44,6 +44,14 @@ M.~Costas, J.~D\'iaz, L.~E. Romera, S.~Hern\'andez, and A.~Tielas.
 \bibitem{titulo2}
 \textbf{Conferencias internacionales}.
 
+\bibitem{Costas_ICILSM}
+M.~Costas, J.~D\'iaz, L.~E. Romera, D.~Morin, and M.~Langseth.
+\newblock Experimental characterization and numerical multi-objective
+  optimization of the crashworthiness of aluminum extrusions filled with {PET}
+  foam and {GFRP}.
+\newblock In {\em 1st International Conference on Impact Loading of Structures
+  and Materials (ICILSM), Turin (Italy)}, 2016.
+
 \bibitem{Costas_FISITA1}
 L.~Romera, M.~Costas, J.~D\'iaz, J.~Paz, and S.~Hern\'andez.
 \newblock Reduction of the frontal crash peak forces in a car using size
