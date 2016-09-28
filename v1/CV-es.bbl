@@ -1,7 +1,7 @@
 \begin{thebibliography}{10}
 
 \bibitem{titulo}
-\textbf{Research articles in JCR journals}.
+\textbf{Art\'iculos de investigaci\'on en revistas JCR}.
 
 \bibitem{costas2016axial}
 M.~Costas, D.~Morin, M.~Langseth, L.~Romera, and J.~D{\'\i}az.
@@ -42,7 +42,15 @@ M.~Costas, J.~D\'iaz, L.~E. Romera, S.~Hern\'andez, and A.~Tielas.
 \newblock {\em International Journal of Impact Engineering}, 62:166--181, 2013.
 
 \bibitem{titulo2}
-\textbf{International conferences}.
+\textbf{Conferencias internacionales}.
+
+\bibitem{Costas_ICILSM}
+M.~Costas, J.~D\'iaz, L.~E. Romera, D.~Morin, and M.~Langseth.
+\newblock Experimental characterization and numerical multi-objective
+  optimization of the crashworthiness of aluminum extrusions filled with {PET}
+  foam and {GFRP}.
+\newblock In {\em 1st International Conference on Impact Loading of Structures
+  and Materials (ICILSM), Turin (Italy)}, 2016.
 
 \bibitem{Costas_FISITA1}
 L.~Romera, M.~Costas, J.~D\'iaz, J.~Paz, and S.~Hern\'andez.
@@ -85,17 +93,5 @@ M.~Costas, J.~D\'iaz, L.~Romera, S.~Hern\'andez, and R.~Ledo.
   structural elements.
 \newblock In {\em SAE 2013 World Congress and Exhibition, paper
   13B-0036/2013-01-0755}, 2013.
-
-\bibitem{titulo3}
-\textbf{Master Thesis in Structural Engineering (Syddansk Universitet,
-  Denmark)}.
-
-\bibitem{PFC}
-M.~Costas, D.~G\'omez, G.~Vilanova, and {coordinators Dr. Carsten Munk Plum and
-  M.Sc. Lys Rhilinger}.
-\newblock \emph{Load Bearing Capacity of Circular Hollow Sections Subjected to
-  Combined Bending and Axial Compression}.
-\newblock Master's thesis, Tekniske Fakultet, Syddansk Universitet - Denmark,
-  2010.
 
 \end{thebibliography}

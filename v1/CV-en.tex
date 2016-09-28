@@ -7,7 +7,9 @@
 
 
 \documentclass[10pt,a4paper,sans]{moderncv}   % opciones posibles incluyen tamaño de fuente ('10pt', '11pt' and '12pt'), tamaño de papel ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' y 'landscape') y familia de fuentes ('sans' y 'roman')
-
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
 % temas de moderncv
 \moderncvstyle{classic}                        % las opciones de estilo son 'casual' (por omision),'classic', 'oldstyle' y 'banking'
 \moderncvcolor{green}                          % opciones de color 'blue' (por omision), 'orange', 'green', 'red', 'purple', 'grey' y 'black'
@@ -56,12 +58,13 @@
 
 \section{Work history}
 
-\cventry{2011--Present}{RD Engineer}{Structural Mechanics group, University of A Coru\~na}{}{}{Simulation and optimization of crash-absorbing hybrid systems.\\3D computational modeling of friction pendulums for the new 350-meter long bridge over the Chiche river, Ecuador.\\
-Computational modeling of GFRP sheet-pile walls.}
+\cventry{2016--Present}{Postdoctoral researcher}{Structural Mechanics group, University of A Coru\~na}{}{}{}
+\cventry{2011--2015}{RD engineer and PhD candidate}{Structural Mechanics group, University of A Coru\~na}{}{}{(Please find a list of RD projects on the upcoming pages).}
 \cventry{Summer of 2009}{Internship}{Port Authority of Vilagarc\'ia de Arousa (Puertos del Estado)}{}{}{Support tasks at the infrastructures management board.}
 
 \section{Teaching experience}
-\cventry{Academic year 2013-2014}{Assistant in the practical training of the subject 'Bridges 1'}{School of Civil Engineering, UDC}{}{}{Support tasks.}
+\cventry{Academic year 2015-2016}{Teacher of 'Advanced structural analysis' in the Master in Structural and Material Aerospace Engineering}{School of Civil Engineering, University of A Coruña}{}{}{}
+\cventry{Academic year 2013-2014}{Assistant in the practical training of the subject 'Bridges 1'}{School of Civil Engineering, University of A Coruña}{}{}{}
 
 \section{Languages}
 \cvitemwithcomment{Spanish}{Native}{}
@@ -72,15 +75,15 @@ Computational modeling of GFRP sheet-pile walls.}
 \cvitemwithcomment{Norwegian}{Basic skills}{Official A1 certificate (Bokm\r{a}l)}
 
 \section{Computation skills}
-\cvitem{Structural analysis}{Structural analysis with Abaqus Standard and Explicit. Deep knowledge in explicit crash simulations, including plasticity and failure models for metals and composites, contacts, joints, etc. Experience with Python scripts for pre and post-processing. Other software: Ansys, SAP2000, Cosmos/M.}
-\cvitem{Optimization packages}{Experience in optimization of impact absorbers using an association of Abaqus with different optimization libraries such as DOT, SCOLIB, CONMIN, OPT++ and JEGA. Surrogate modeling using the Surfpack package. Experience with DAKOTA optimization framework.}
+\cvitem{Structural analysis}{Structural analysis with Abaqus Standard and Explicit. Experience in explicit crash simulations, including plasticity and failure models for metals and composites, contacts, joints, etc. Experience with Python scripts for pre and post-processing. Other software: Ansys, SAP2000, Cosmos/M.}
+\cvitem{Optimization packages}{Experience in structural optimization with different optimization libraries such as DOT, SCOLIB, CONMIN, OPT++ and JEGA. Surrogate modeling using the Surfpack package. Experience with DAKOTA optimization framework.}
 \cvitem{CAD}{Autocad}
-\cvitem{Programming languages}{Python, Fortran, Bash}
+\cvitem{Programming}{Python, Fortran, Bash, \LaTeX.}
 
 
 \section{Other information}
 \cvlistitem{Driving license. Car owner.}
-\cvlistitem{Piano teacher and active professional concert pianist}
+\cvlistitem{Piano teacher and active professional concert pianist.}
 
 \renewcommand{\listitemsymbol}{-~}            % para cambiar el simbolo para las listas
 
@@ -90,7 +93,17 @@ Computational modeling of GFRP sheet-pile walls.}
 \section{Patents}
 \cvlistitem{National Spanish patent no. ES 2-386-269-B1: Hybrid metal-composite system for crash energy absorption. Authors: Alberto Tielas, Isabel \'Alvarez, Raquel Ledo (Centro Tecnol\'oxico da Automoci\'on de Galicia, CTAG); Miguel Costas, Luis Esteban Romera (University of A Coru\~na, UDC). Granted on the 11th of July 2013.}
 
-
+\section{Participation in RD projects}
+\cvlistitem{[European project] FP7-AAT-2007-RTD-1. MAAXIMUS: More affordable Aircraft Structure through Extended, Integrated and Mature Numerical Sizing, UE, 03/2008-03/2013. Years 2011-2015. Budget: 370000 \texteuro.}
+\cvlistitem{[National project] UNCL13-1E-2123. Boundary layer wind tunnel for civil and aeronautical engineering applications. Spanish Ministry of Economy and Competitiveness. Year 2014. Budget: 325000 \texteuro.}
+\cvlistitem{[National project] DURAPORT. New technologies for the construction of durable port infrastructure. CDTI, program FEDER-INTERCONNECTA, Spanish Ministry of Economy and Competitiveness, ref. 407. Years 2011-2012. Budget: 40000 \texteuro.}
+\cvlistitem{[National project] DPI 2013-41893-R. OPTOPAER. Probabilistic topologic and topometric optimization of aeronautical structures in linear and nonlinear regimes. Spanish Ministry of Economy and Competitiveness. Years 2014-2016. Budget: 53240 \texteuro.}
+\cvlistitem{[Regional project] 09DPI-011118PR INCITE 2009. Optimum design of automobile structures and components with metallic and composite materials. Regional Counseling of Economy and Industry. Years 2009-2012. Budget: 45000 \texteuro.}
+\cvlistitem{[Regional project] 10DPI025CT. Hybrid-Body: structural optimization of a hybrid sistem for frontal impact energy absorption with experimental and numerical validation. Regional Counseling of Economy and Industry. Years 2010-2012. Budget: 46000 \texteuro.}
+\cvlistitem{[Regional project] GRC2013-056. Group of Competitive Reference. Regional Counseling of Culture, Education and Universities. Years 2013-2016. Budget: 259000 \texteuro.}
+\cvlistitem{[RD project with industrial partner] With Puentes y Calzadas: Seismic design in linear and nonlinear regimes of the new bridge over the river Chiche, in Ecuador. Ref. 443. Year 2013. Budget: 44504.77 \texteuro.}
+\cvlistitem{[RD project with industrial partner] With AIRBUS: Optimization study of rear fuselage. Year 2015. Budget: 25561.26 \texteuro.}
+\cvlistitem{[RD project with industrial partner] With AIRBUS: Junction modeling of nonlinear frequency response of assembled structures. Extension of 2012 activities. Year 2015. Budget: 24200 \texteuro.}
 
 \nocite{*}
 \bibliographystyle{unsrt}
@@ -106,11 +119,11 @@ Computational modeling of GFRP sheet-pile walls.}
 %\bibliographymisc{publications}              % 'publications' es el nombre del archivo BibTeX
 
 %\clearpage\end{CJK*}                          % si esta redactando su CV en chino usando CJK, \clearpage es requerido por fancyhdr para que funcione correctamente con CJK, aunque esto eliminara la numeracion de pagina al dejar \lastpage como no definido
-\section{Research stays}
+\section{International research stays}
 \cvlistitem{Research stay from 1/10/2014 to 1/4/2015 (six months) at the Structural Impact Laboratory (NTNU, Norway) supervised by Prof. Magnus Langseth and Dr. David Morin.}
 
 \section{Scientific advisory}
-\cvlistitem{Reviewer in JCR journals \emph{International Journal of Mechanical Sciences}, \emph{Materials and Design}, \emph{Journal of Reinforced Plastics and Composites} and \emph{Engineering Optimization}.}
+\cvlistitem{Reviewer in JCR journals \emph{International Journal of Mechanical Sciences}, \emph{Materials and Design}, \emph{Journal of Reinforced Plastics and Composites}, \emph{Engineering Optimization}, \emph{Computers and Structures} and \emph{Composites Part B}.}
 
 \end{document}
 
