@@ -3,6 +3,12 @@
 \bibitem{titulo}
 \textbf{Research articles in JCR journals}.
 
+\bibitem{COSTAS2018}
+M.~Costas, D.~Morin, O.S. Hopperstad, T.~Børvik, and M.~Langseth.
+\newblock A through-thickness damage regularisation scheme for shell elements
+  subjected to severe bending and membrane deformations.
+\newblock {\em Journal of the Mechanics and Physics of Solids}, 2018.
+
 \bibitem{COSTAS2017205}
 M.~Costas, D.~Morin, M.~Langseth, J.~Díaz, and L.~Romera.
 \newblock {Static crushing of aluminium tubes filled with PET foam and a GFRP
@@ -50,6 +56,22 @@ M.~Costas, J.~D\'iaz, L.~E. Romera, S.~Hern\'andez, and A.~Tielas.
 
 \bibitem{titulo2}
 \textbf{International conferences}.
+
+\bibitem{dyna1}
+J.K. Holmen, J.~Johnsen, M.~Costas, D.~Morin, T.~Berstad, T.~Børvik, O.S.
+  Hopperstad, and M.~Langseth.
+\newblock Applications of *{MAT}\textunderscore 258: A through-thickness
+  regularization model for shells.
+\newblock In {\em Dynamore Nordic Users’ Conference 2018, Gothenburg
+  (Sweden)}, 2018.
+
+\bibitem{dyna2}
+D.~Morin, J.K. Holmen, J.~Johnsen, M.~Costas, T.~Berstad, T.~Børvik, O.S.
+  Hopperstad, and M.~Langseth.
+\newblock Theoretical aspects of *{MAT}\textunderscore 258: A through-thickness
+  regularization model for shells.
+\newblock In {\em Dynamore Nordic Users’ Conference 2018, Gothenburg
+  (Sweden)}, 2018.
 
 \bibitem{Costas_portugal}
 J.~D\'iaz, L.~E. Romera, M.~Costas, and J.~Paz.
@@ -120,17 +142,5 @@ M.~Costas, J.~D\'iaz, L.~Romera, S.~Hern\'andez, and R.~Ledo.
   structural elements.
 \newblock In {\em SAE 2013 World Congress and Exhibition, paper
   13B-0036/2013-01-0755}, 2013.
-
-\bibitem{titulo3}
-\textbf{Master Thesis in Structural Engineering (Syddansk Universitet,
-  Denmark)}.
-
-\bibitem{PFC}
-M.~Costas, D.~G\'omez, G.~Vilanova, and {coordinators Dr. Carsten Munk Plum and
-  M.Sc. Lys Rhilinger}.
-\newblock \emph{Load Bearing Capacity of Circular Hollow Sections Subjected to
-  Combined Bending and Axial Compression}.
-\newblock Master's thesis, Tekniske Fakultet, Syddansk Universitet - Denmark,
-  2010.
 
 \end{thebibliography}
