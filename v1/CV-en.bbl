@@ -3,6 +3,18 @@
 \bibitem{titulo}
 \textbf{Research articles in JCR journals}.
 
+\bibitem{tim}
+M.~Kristoffersen, M.~Costas, T.~Koenis, V.~Brøtan, C.~Paulsen, and T.~Børvik.
+\newblock {On the ballistic perforation resistance of additive manufactured
+  {AlSi10Mg} aluminium plates [under review]}.
+\newblock {\em International Journal of Impact Engineering}, 2019.
+
+\bibitem{3dprinted}
+M.~Costas, D.~Morin, M.~de~Lucio, and M.~Langseth.
+\newblock {Testing and simulation of additively manufactured {AlSi10Mg} boxes
+  under quasi-static lateral compression [under review] }.
+\newblock {\em Thin-Walled Structures}, 2019.
+
 \bibitem{COSTAS2018}
 M.~Costas, D.~Morin, O.S. Hopperstad, T.~Børvik, and M.~Langseth.
 \newblock A through-thickness damage regularisation scheme for shell elements

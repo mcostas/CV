@@ -10,7 +10,6 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{textcomp}
-
 % temas de moderncv
 \moderncvstyle{classic}                        % las opciones de estilo son 'casual' (por omision),'classic', 'oldstyle' y 'banking'
 \moderncvcolor{green}                          % opciones de color 'blue' (por omision), 'orange', 'green', 'red', 'purple', 'grey' y 'black'
@@ -30,7 +29,7 @@
 %\familyname{Costas Pi\~{n}\'o}
 \familyname{Costas}
 \title{Curriculum Vitae, updated \today}
-%\address{Presteg\r{a}rdsvegen 5}{7051 - Trondheim, Norway} % dato opcional, elimine la linea si no desea el dato
+\address{Presteg\r{a}rdsvegen 5}{7051 - Trondheim, Norway} % dato opcional, elimine la linea si no desea el dato
 \mobile{(+47)~469~67~251\\(+34)~660~784~672\\}
 \email{miguel.costas@ntnu.no}                                 % dato opcional, elimine la linea si no desea el dato
 \extrainfo{Birth date: 11.28.1987}                    % dato opcional, elimine la linea si no desea el dato
@@ -53,35 +52,34 @@
 
 \section{Education}
  % Los argumentos del 3 al 6 pueden permanecer vacios
- \cventry{2011--2016}{PhD. in Civil Engineering}{School of Civil Engineering}{University of A Coru\~na}{}{Doctoral thesis: \textit{Crashworthiness analysis and design optimization of hybrid impact energy absorbers} Research stay at SIMLab (NTNU) during six months, granted by Fundaci\'on Barri\'e. Extraordinary PhD award, international mention and \emph{cum laude} award.} 
+ \cventry{2011--2016}{PhD. in Civil Engineering, area of Continuum Mechanics and Structural Theory}{School of Civil Engineering}{University of A Coru\~na}{}{Doctoral thesis: \textit{Crashworthiness analysis and design optimization of hybrid impact energy absorbers} Research stay at SIMLab (NTNU) during six months, granted by Fundaci\'on Barri\'e. Extraordinary PhD award, international mention and \emph{cum laude} award.} 
 \cventry{2005--2010}{MEng. in Civil Engineering (Ingeniero de Caminos, Canales y Puertos)}{School of Civil Engineering}{University of A Coru\~na}{}{Number 11 of 95 in class. Erasmus exchange program at Syddansk Universitet (Odense, Denmark).}
 \cventry{2005}{Professional degree in Music}{Conservatory of Santiago de Compostela}{}{}{Specialization in piano and music analysis.}
 
 
 \section{Work history}
 
-\cventry{2019--Present}{Researcher}{Centre for Advanced Structural Analysis (CASA), NTNU (Trondheim, Norway)}{}{}{}
-\cventry{2017--2019}{Postdoctoral researcher}{Centre for Advanced Structural Analysis (CASA), NTNU (Trondheim, Norway)}{}{}{}
+\cventry{2017--Present}{Postdoctoral researcher}{Centre for Advanced Structural Analysis (CASA), NTNU (Trondheim, Norway)}{}{}{}
 \cventry{2016}{Postdoctoral researcher}{Structural Mechanics group, University of A Coru\~na}{}{}{}
 \cventry{2011--2015}{RD engineer and PhD candidate}{Structural Mechanics group, University of A Coru\~na}{}{}{(Please find a list of RD projects on the upcoming pages).}
 \cventry{Summer 2009}{Internship}{Port Authority of Vilagarc\'ia de Arousa (Puertos del Estado)}{}{}{}
 
 \section{Teaching experience}
-\cventry{2019--Present}{Coordinator and teacher of ``Materials Mechanics'' (TKT4135)}{Norwegian University of Science and Technology}{}{}{}
 \cventry{2015-2018}{Teacher of ``Advanced structural analysis'' in the Master in Structural and Material Aerospace Engineering}{School of Civil Engineering, UDC}{}{}{}
+\cventry{2013-2014}{Assistant in the practical training of the subject 'Bridges 1'}{School of Civil Engineering, UDC}{}{}{}
 
 \section{Languages}
 \cvitemwithcomment{Spanish}{Native}{}
 \cvitemwithcomment{Galician}{Native}{}
-\cvitemwithcomment{English}{Full professional proficiency}{Certificate in Advanced English, Cambridge University. 2012.}
-\cvitemwithcomment{Norwegian}{Intermediate professional proficiency, level B2-C1}{}
+\cvitemwithcomment{English}{Full professional proficiency, level C1}{Certificate in Advanced English, Cambridge University. 2012.}
+\cvitemwithcomment{Norwegian}{Intermediate professional proficiency, level B2-C1}{Currently studying at NTNU.}
 \cvitemwithcomment{French}{Basic professional proficiency, level B1}{}
 \cvitemwithcomment{Portuguese}{Basic professional proficiency}{}
 
 
 \section{Computation skills}
 \cvitem{Structural analysis}{Structural analysis with Abaqus Standard and Explicit. Experience in explicit crash simulations, including plasticity and failure models for metals and composites, contacts, joints, etc. Other software: LS-DYNA, Ansys, SAP2000, Cosmos/M.}
-\cvitem{Optimization}{Experience in structural optimization with DAKOTA and LS-OPT.}
+\cvitem{Optimization packages}{Experience in structural optimization with different optimization libraries. Experience with DAKOTA and LS-OPT optimization frameworks.}
 \cvitem{CAD}{Autocad, Solidworks.}
 \cvitem{Programming}{Python, Fortran, Bash, \LaTeX.}
 
@@ -127,7 +125,6 @@
 %\bibliographymisc{publications}              % 'publications' es el nombre del archivo BibTeX
 
 %\clearpage\end{CJK*}                          % si esta redactando su CV en chino usando CJK, \clearpage es requerido por fancyhdr para que funcione correctamente con CJK, aunque esto eliminara la numeracion de pagina al dejar \lastpage como no definido
-\clearpage
 \section{International research stays}
 \cvlistitem{Research stay from 1/10/2014 to 1/4/2015 (six months) at the Structural Impact Laboratory (NTNU, Norway) supervised by Prof. Magnus Langseth and Dr. David Morin.}
 
