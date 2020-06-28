@@ -3,25 +3,25 @@
 \bibitem{titulo}
 \textbf{Research articles in JCR journals}.
 
-\bibitem{KRISTOFFERSEN2019103476}
+\bibitem{jordi}
+A.~Muñoz-Ibáñez, J.~Delgado-Martín, M.~Costas, J.~Rabuñal-Dopico,
+  J.~Alvarellos-Iglesias, and J.~Canal-Vila.
+\newblock {Pure Mode I Fracture Toughness Determination in Rocks Using a
+  Pseudo-Compact Tension (pCT) Test Approach}.
+\newblock {\em Rock Mechanics and Rock Engineering}, 2020.
+
+\bibitem{KRISTOFFERSEN2020103476}
 M.~Kristoffersen, M.~Costas, T.~Koenis, V.~Brøtan, C.O. Paulsen, and
   T.~Børvik.
 \newblock On the ballistic perforation resistance of additive manufactured
   {AlSi10Mg} aluminium plates.
-\newblock {\em International Journal of Impact Engineering}, page 103476, 2019.
+\newblock {\em International Journal of Impact Engineering}, 137:103476, 2020.
 
-\bibitem{3dprinted}
+\bibitem{COSTAS2020103966}
 M.~Costas, D.~Morin, M.~de~Lucio, and M.~Langseth.
-\newblock {Testing and simulation of additively manufactured {AlSi10Mg} boxes
-  under quasi-static lateral compression [under review] }.
-\newblock {\em European Journal of Mechanics / Solids}, 2019.
-
-\bibitem{andrea}
-A.~Muñoz-Ibáñez, J.~Delgado-Martín, M.~Costas, J.~Rabuñal-Dopico,
-  J.~Alvarellos-Iglesias, and J.~Canal-Vila.
-\newblock {Pure {mode-I} fracture toughness determination in rocks using a
-  pseudo-compact tension {(pCT)} test approach [under review] }.
-\newblock {\em Rock Mechanics and Rock Engineering}, 2019.
+\newblock Testing and simulation of additively manufactured {AlSi10Mg}
+  components under quasi-static loading.
+\newblock {\em European Journal of Mechanics - A/Solids}, 81:103966, 2020.
 
 \bibitem{COSTAS2019103794}
 M.~Costas, D.~Morin, O.S. Hopperstad, T.~Børvik, and M.~Langseth.
@@ -104,7 +104,7 @@ M.~Costas, D.~Morin, and M.~Langseth.
   Manufactured Materials, Trondheim (Norway)}, 2019.
 
 \bibitem{esiam2}
-M.~Kristoffersen, M.~Costas, C.~Oen~Paulsen, T.~Koenis, V.~Brøtan, and
+M.~Kristoffersen, M.~Costas, C.O. Paulsen, T.~Koenis, V.~Brøtan, and
   T.~Børvik.
 \newblock Experimental and numerical investigations of additively manufactured
   {AlSi10Mg} plates subjected to ballistic perforation.
