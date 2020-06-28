@@ -1,0 +1,92 @@
+%% Inicio del archivo `template-es.tex'.
+%% Copyright 2006-2012 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[10pt,a4paper,sans]{moderncv}   % opciones posibles incluyen tamaño de fuente ('10pt', '11pt' and '12pt'), tamaño de papel ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' y 'landscape') y familia de fuentes ('sans' y 'roman')
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+% temas de moderncv
+\moderncvstyle{classic}                        % las opciones de estilo son 'casual' (por omision),'classic', 'oldstyle' y 'banking'
+\moderncvcolor{blue}                          % opciones de color 'blue' (por omision), 'orange', 'green', 'red', 'purple', 'grey' y 'black'
+%\renewcommand{\familydefault}{\sfdefault}    % para seleccionar la fuente por omision, use '\sfdefault' para la fuente sans serif, '\rmdefault' para la fuente roman, o cualquier nombre de fuente
+%\nopagenumbers{}                             % elimine el comentario para suprimir la numeracion automatica de las paginas para CVs mayores a una pagina
+
+% codificacion de caracteres
+%\usepackage[utf8]{inputenc}                  % reemplace con su codificacion
+%\usepackage{CJKutf8}                         % si necesita usa CJK para redactar su CV en chino, japones o coreano
+
+% ajustes para los margenes de pagina
+\usepackage[scale=0.87]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}           % si desea cambiar el ando de la columna para las fechas
+
+% datos personales
+\firstname{Miguel}
+\familyname{Costas}
+\title{Music Curriculum Vitae, updated \today}
+\address{Presteg\r{a}rdsvegen 5}{7051 - Trondheim, Norway} % dato opcional, elimine la linea si no desea el dato
+\mobile{(+47)~469~67~251\\(+34)~660~784~672\\}
+\email{miguel.costas@ntnu.no}                                 % dato opcional, elimine la linea si no desea el dato
+\extrainfo{Birth date: 11.28.1987}                    % dato opcional, elimine la linea si no desea el dato
+\photo[64pt][0pt]{foto_yo_redondo}                          % '64pt' es la altura a la que la imagen debe ser ajustada, 0.4pt es grosor del marco que lo contiene (eliga 0pt para eliminar el marco) y 'picture' es el nombre del archivo; dato opcional, elimine la linea si no desea el dato
+
+% para mostrar etiquetas numericas en la bibliografia (por omision no se muestran etiquetas), solo es util si desea incluir citas en en CV
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+
+% bibliografia con varias fuentes
+%\usepackage{multibib}
+%\newcites{book,misc}{{Libros},{Otros}}
+%----------------------------------------------------------------------------------
+%            contenido
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                     % para redactar el CV en chino usando CJK
+\maketitle
+
+\section{Education}
+ % Los argumentos del 3 al 6 pueden permanecer vacios
+ \cventry{2018--Present}{Continuing piano studies under Prof. Sergej Osadchuk}{Troms\o, Norway}{}{}{} 
+\cventry{2006--Present}{Continuing piano studies under Prof. Yury Popov}{Viana do Castelo, Portugal}{}{}{A reference letter by Prof. Yury Popov is enclosed.}
+\cventry{2000--2005}{Professional degree in Music}{Conservatory of Santiago de Compostela}{Joined in 6th grade of a total of 10 years}{Finished with the highest grades (10/10) in all subjects}{Specialization in piano performance and music analysis.}
+\cventry{1990--2000}{Music theory and piano lessons}{Academy ``Quinta Sinfon\'ia''}{Cambados (Spain)}{}{A reference letter by the general manager M. J. Couceiro is attached}
+
+\section{Courses}
+\cventry{2016}{Piano masterclass, Prof. Yury Popov (IT Castelo Branco, Portugal)}{}{}{}{}
+\cventry{2014}{Course in lyrical accompaniment, Prof. Javier San Miguel (Conservatory of Salamanca, Spain)}{}{}{}{}
+\cventry{2014}{Piano course with Prof. Constantin Sandu (ESMAE, Porto, Portugal)}{}{}{}{}
+\cventry{2012}{Piano course with Prof. Constantin Sandu (ESMAE, Porto, Portugal)}{}{}{}{}
+
+\section{Music-related work experience}
+
+\cventry{2007--2017}{Assistant piano teacher (volunteer, non-remunerated)}{Academy ``Quinta Sinfon\'ia''}{Cambados (Spain)}{Regular courses and preparation for admission exams to the higher courses in conservatories (100\% success rate)}{}
+\cventry{2003--2017}{Accompanist (volunteer, non-remunerated)}{Academy ``Quinta Sinfon\'ia''}{Cambados (Spain)}{Concerts, auditions, recordings and preparation for admission exams}{Lyrical, violin, viola, cello, flute, clarinet, sax, guitar, second piano.}
+\cventry{2013--2017}{Accompanist}{}{Several masterclasses and courses of lyrical singing}{}{(Details to be provided upon request).}
+
+\section{Performance activity}
+\cventry{Soloist}{Numerous solo concerts since 1997}{}{Details, recordings and programs can be provided upon request}{}{}
+\cventry{Collaborative artist}{Accompanist to other instruments or lyrical singers}{}{Numerous events, details, recordings and programs can be provided upon request}{}{{A reference letter by Prof. Beatriz V\'azquez is enclosed.}}
+\cventry{With orchestra}{Performance of Leroy Anderson's piano concerto with the military band of Mar\'in (Spanish Army), 2012}{Pontevedra (Spain)}{Details, recording and program can be provided upon request}{}{}
+
+
+\section{Languages}
+\cvitemwithcomment{Spanish}{Native}{}
+\cvitemwithcomment{Galician}{Native}{}
+\cvitemwithcomment{English}{Full professional proficiency, level C1}{Certificate in Advanced English, Cambridge University. 2012.}
+\cvitemwithcomment{Norwegian}{Basic professional proficiency, level B2}{Currently studying at NTNU.}
+\cvitemwithcomment{French}{Basic professional proficiency, level B1}{}
+\cvitemwithcomment{Portuguese}{Basic professional proficiency}{}
+
+\section{Other information}
+\cvlistitem{Driving license. Car owner.}
+
+
+\end{document}
+
+
+%% fin del archivo `template-es.tex'.

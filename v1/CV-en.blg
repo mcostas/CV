@@ -4,7 +4,10 @@ Database file #1: publications_en.bib
 Warning--empty title in titulo
 Warning--empty journal in titulo
 Warning--empty year in titulo
+Warning--empty title in libros
+Warning--empty journal in libros
+Warning--empty year in libros
 Warning--empty title in titulo2
 Warning--empty journal in titulo2
 Warning--empty year in titulo2
-(There were 6 warnings)
+(There were 9 warnings)
