@@ -3,11 +3,40 @@
 \bibitem{titulo}
 \textbf{Research articles in JCR journals}.
 
-\bibitem{COSTAS2018}
+\bibitem{KRISTOFFERSEN2019103476}
+M.~Kristoffersen, M.~Costas, T.~Koenis, V.~Brøtan, C.O. Paulsen, and
+  T.~Børvik.
+\newblock On the ballistic perforation resistance of additive manufactured
+  {AlSi10Mg} aluminium plates.
+\newblock {\em International Journal of Impact Engineering}, page 103476, 2019.
+
+\bibitem{3dprinted}
+M.~Costas, D.~Morin, M.~de~Lucio, and M.~Langseth.
+\newblock {Testing and simulation of additively manufactured {AlSi10Mg} boxes
+  under quasi-static lateral compression [under review] }.
+\newblock {\em European Journal of Mechanics / Solids}, 2019.
+
+\bibitem{andrea}
+A.~Muñoz-Ibáñez, J.~Delgado-Martín, M.~Costas, J.~Rabuñal-Dopico,
+  J.~Alvarellos-Iglesias, and J.~Canal-Vila.
+\newblock {Pure {mode-I} fracture toughness determination in rocks using a
+  pseudo-compact tension {(pCT)} test approach [under review] }.
+\newblock {\em Rock Mechanics and Rock Engineering}, 2019.
+
+\bibitem{COSTAS2019103794}
+M.~Costas, D.~Morin, O.S. Hopperstad, T.~Børvik, and M.~Langseth.
+\newblock Corrigendum to “{A through-thickness damage regularisation scheme
+  for shell elements subjected to severe bending and membrane deformations”
+  [Journal of the Mechanics and Physics of Solids 123 (2019) 190–206]}.
+\newblock {\em Journal of the Mechanics and Physics of Solids}, page 103794,
+  2019.
+
+\bibitem{COSTAS2019}
 M.~Costas, D.~Morin, O.S. Hopperstad, T.~Børvik, and M.~Langseth.
 \newblock A through-thickness damage regularisation scheme for shell elements
   subjected to severe bending and membrane deformations.
-\newblock {\em Journal of the Mechanics and Physics of Solids}, 2018.
+\newblock {\em Journal of the Mechanics and Physics of Solids}, 123:190 -- 206,
+  2019.
 
 \bibitem{COSTAS2017205}
 M.~Costas, D.~Morin, M.~Langseth, J.~Díaz, and L.~Romera.
@@ -54,8 +83,58 @@ M.~Costas, J.~D\'iaz, L.~E. Romera, S.~Hern\'andez, and A.~Tielas.
   hybrid absorbers.
 \newblock {\em International Journal of Impact Engineering}, 62:166--181, 2013.
 
+\bibitem{libros}
+\textbf{Book chapters}.
+
+\bibitem{Díaz2019}
+Jacobo D{\'i}az and Miguel Costas.
+\newblock Crashworthiness.
+\newblock In Holm Altenbach and Andreas {\"O}chsner, editors, {\em Encyclopedia
+  of Continuum Mechanics}, Berlin, Heidelberg, 2019. Springer Berlin
+  Heidelberg.
+
 \bibitem{titulo2}
 \textbf{International conferences}.
+
+\bibitem{esiam1}
+M.~Costas, D.~Morin, and M.~Langseth.
+\newblock An experimental and numerical study on the lateral crushing of
+  additively manufactured {AlSi10Mg} boxes.
+\newblock In {\em European Conference on the Structural Integrity of Additively
+  Manufactured Materials, Trondheim (Norway)}, 2019.
+
+\bibitem{esiam2}
+M.~Kristoffersen, M.~Costas, C.~Oen~Paulsen, T.~Koenis, V.~Brøtan, and
+  T.~Børvik.
+\newblock Experimental and numerical investigations of additively manufactured
+  {AlSi10Mg} plates subjected to ballistic perforation.
+\newblock In {\em European Conference on the Structural Integrity of Additively
+  Manufactured Materials, Trondheim (Norway)}, 2019.
+
+\bibitem{madrid}
+M.~Costas, D.~Morin, and M.~Langseth.
+\newblock Modelling and simulation of impact in stiffened aluminium panels
+  using damage regularisation.
+\newblock In {\em ASIDIC2019, Aerospace Structural Impact Dynamics
+  International Conference, Madrid (Spain)}, 2019.
+
+\bibitem{koblenz}
+M.~Costas, D.~Morin, and M.~Langseth.
+\newblock Modelling of steel-aluminium components using structural adhesive and
+  self-piercing rivets.
+\newblock In {\em 12th European LS-DYNA Conference, Koblenz (Germany)}, 2019.
+
+\bibitem{koblenz2}
+D.~Morin, M.~Reil, T.~Berstad, M.~Costas, and M.~Langseth.
+\newblock Multi-scale numerical simulations of structural joints with
+  flow-drill screws using a virtual material calibration.
+\newblock In {\em 12th European LS-DYNA Conference, Koblenz (Germany)}, 2019.
+
+\bibitem{koblenz3}
+D.~Morin, T.~Berstad, M.~Costas, O.S. Hopperstad, and M.~Langseth.
+\newblock *{MAT}\textunderscore 258: A through-thickness regularization scheme
+  for shell element analyses – application to aluminium components.
+\newblock In {\em 12th European LS-DYNA Conference, Koblenz (Germany)}, 2019.
 
 \bibitem{dyna1}
 J.K. Holmen, J.~Johnsen, M.~Costas, D.~Morin, T.~Berstad, T.~Børvik, O.S.
