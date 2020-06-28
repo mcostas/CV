@@ -1,0 +1,137 @@
+%% Inicio del archivo `template-es.tex'.
+%% Copyright 2006-2012 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[10pt,a4paper,sans]{moderncv}   % opciones posibles incluyen tamaño de fuente ('10pt', '11pt' and '12pt'), tamaño de papel ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' y 'landscape') y familia de fuentes ('sans' y 'roman')
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+% temas de moderncv
+\moderncvstyle{classic}                        % las opciones de estilo son 'casual' (por omision),'classic', 'oldstyle' y 'banking'
+\moderncvcolor{green}                          % opciones de color 'blue' (por omision), 'orange', 'green', 'red', 'purple', 'grey' y 'black'
+%\renewcommand{\familydefault}{\sfdefault}    % para seleccionar la fuente por omision, use '\sfdefault' para la fuente sans serif, '\rmdefault' para la fuente roman, o cualquier nombre de fuente
+%\nopagenumbers{}                             % elimine el comentario para suprimir la numeracion automatica de las paginas para CVs mayores a una pagina
+
+% codificacion de caracteres
+%\usepackage[utf8]{inputenc}                  % reemplace con su codificacion
+%\usepackage{CJKutf8}                         % si necesita usa CJK para redactar su CV en chino, japones o coreano
+
+%ajustes para los margenes de pagina
+\usepackage[scale=0.87]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}           % si desea cambiar el ando de la columna para las fechas
+
+% datos personales
+\firstname{Miguel}
+%\familyname{Costas Pi\~{n}\'o}
+\familyname{Costas}
+\title{Curriculum Vitae, updated \today}
+\address{Presteg\r{a}rdsvegen 5}{7051 - Trondheim, Norway} % dato opcional, elimine la linea si no desea el dato
+\mobile{(+47)~469~67~251\\(+34)~660~784~672\\}
+\email{miguel.costas@ntnu.no}                                 % dato opcional, elimine la linea si no desea el dato
+\extrainfo{Birth date: 11.28.1987}                    % dato opcional, elimine la linea si no desea el dato
+\photo[64pt][0pt]{foto_yo_redondo}                          % '64pt' es la altura a la que la imagen debe ser ajustada, 0.4pt es grosor del marco que lo contiene (eliga 0pt para eliminar el marco) y 'picture' es el nombre del archivo; dato opcional, elimine la linea si no desea el dato
+
+% para mostrar etiquetas numericas en la bibliografia (por omision no se muestran etiquetas), solo es util si desea incluir citas en en CV
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+
+% bibliografia con varias fuentes
+%\usepackage{multibib}
+%\newcites{book,misc}{{Libros},{Otros}}
+%----------------------------------------------------------------------------------
+%            contenido
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                     % para redactar el CV en chino usando CJK
+\maketitle
+
+\section{Education}
+ % Los argumentos del 3 al 6 pueden permanecer vacios
+ \cventry{2011--2016}{PhD. in Civil Engineering, area of Continuum Mechanics and Structural Theory}{School of Civil Engineering}{University of A Coru\~na}{}{Doctoral thesis: \textit{Crashworthiness analysis and design optimization of hybrid impact energy absorbers} Research stay at SIMLab (NTNU) during six months, granted by Fundaci\'on Barri\'e. Extraordinary PhD award, international mention and \emph{cum laude} award.} 
+\cventry{2005--2010}{MEng. in Civil Engineering (Ingeniero de Caminos, Canales y Puertos)}{School of Civil Engineering}{University of A Coru\~na}{}{Number 11 of 95 in class. Erasmus exchange program at Syddansk Universitet (Odense, Denmark).}
+\cventry{2005}{Professional degree in Music}{Conservatory of Santiago de Compostela}{}{}{Specialization in piano and music analysis.}
+
+
+\section{Work history}
+
+\cventry{2017--Present}{Postdoctoral researcher}{Centre for Advanced Structural Analysis (CASA), NTNU (Trondheim, Norway)}{}{}{}
+\cventry{2016}{Postdoctoral researcher}{Structural Mechanics group, University of A Coru\~na}{}{}{}
+\cventry{2011--2015}{RD engineer and PhD candidate}{Structural Mechanics group, University of A Coru\~na}{}{}{(Please find a list of RD projects on the upcoming pages).}
+\cventry{Summer 2009}{Internship}{Port Authority of Vilagarc\'ia de Arousa (Puertos del Estado)}{}{}{}
+
+\section{Teaching experience}
+\cventry{2015-2018}{Teacher of ``Advanced structural analysis'' in the Master in Structural and Material Aerospace Engineering}{School of Civil Engineering, UDC}{}{}{}
+\cventry{2013-2014}{Assistant in the practical training of the subject 'Bridges 1'}{School of Civil Engineering, UDC}{}{}{}
+
+\section{Languages}
+\cvitemwithcomment{Spanish}{Native}{}
+\cvitemwithcomment{Galician}{Native}{}
+\cvitemwithcomment{English}{Full professional proficiency, level C1}{Certificate in Advanced English, Cambridge University. 2012.}
+\cvitemwithcomment{Norwegian}{Intermediate professional proficiency, level B2-C1}{Currently studying at NTNU.}
+\cvitemwithcomment{French}{Basic professional proficiency, level B1}{}
+\cvitemwithcomment{Portuguese}{Basic professional proficiency}{}
+
+
+\section{Computation skills}
+\cvitem{Structural analysis}{Structural analysis with Abaqus Standard and Explicit. Experience in explicit crash simulations, including plasticity and failure models for metals and composites, contacts, joints, etc. Other software: LS-DYNA, Ansys, SAP2000, Cosmos/M.}
+\cvitem{Optimization packages}{Experience in structural optimization with different optimization libraries. Experience with DAKOTA and LS-OPT optimization frameworks.}
+\cvitem{CAD}{Autocad, Solidworks.}
+\cvitem{Programming}{Python, Fortran, Bash, \LaTeX.}
+
+
+\section{Other information}
+\cvlistitem{Driving license. Car owner.}
+\cvlistitem{Piano teacher and active professional concert pianist.}
+
+\renewcommand{\listitemsymbol}{-~}            % para cambiar el simbolo para las listas
+
+
+% Las publicaciones tomadas de un archivo de BibTeX sin usar multibib\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+
+\section{Patents}
+\cvlistitem{National Spanish patent no. ES 2-386-269-B1: Hybrid metal-composite system for crash energy absorption. Authors: Alberto Tielas, Isabel \'Alvarez, Raquel Ledo (Centro Tecnol\'oxico da Automoci\'on de Galicia, CTAG); Miguel Costas, Luis Esteban Romera (University of A Coru\~na, UDC). Granted on the 11th of July 2013.}
+
+\section{Participation in RD projects}
+\cvlistitem{[European project] FP7-AAT-2007-RTD-1. MAAXIMUS: More affordable Aircraft Structure through Extended, Integrated and Mature Numerical Sizing, UE, 03/2008-03/2013. Years 2011-2015. Budget: 370000 \texteuro.}
+\cvlistitem{[National project] UNCL13-1E-2123. Boundary layer wind tunnel for civil and aeronautical engineering applications. Spanish Ministry of Economy and Competitiveness. Year 2014. Budget: 325000 \texteuro.}
+\cvlistitem{[National project] DURAPORT. New technologies for the construction of durable port infrastructure. CDTI, program FEDER-INTERCONNECTA, Spanish Ministry of Economy and Competitiveness, ref. 407. Years 2011-2012. Budget: 40000 \texteuro.}
+\cvlistitem{[National project] DPI 2013-41893-R. OPTOPAER. Probabilistic topologic and topometric optimization of aeronautical structures in linear and nonlinear regimes. Spanish Ministry of Economy and Competitiveness. Years 2014-2016. Budget: 53240 \texteuro.}
+\cvlistitem{[Regional project] 09DPI-011118PR INCITE 2009. Optimum design of automobile structures and components with metallic and composite materials. Regional Counseling of Economy and Industry. Years 2009-2012. Budget: 45000 \texteuro.}
+\cvlistitem{[Regional project] 10DPI025CT. Hybrid-Body: structural optimization of a hybrid sistem for frontal impact energy absorption with experimental and numerical validation. Regional Counseling of Economy and Industry. Years 2010-2012. Budget: 46000 \texteuro.}
+\cvlistitem{[Regional project] GRC2013-056. Group of Competitive Reference. Regional Counseling of Culture, Education and Universities. Years 2013-2016. Budget: 259000 \texteuro.}
+\cvlistitem{[RD project with industrial partner] With Puentes y Calzadas: Seismic design in linear and nonlinear regimes of the new bridge over the river Chiche, in Ecuador. Ref. 443. Year 2013. Budget: 44504.77 \texteuro.}
+\cvlistitem{[RD project with industrial partner] With AIRBUS: Optimization study of rear fuselage. Year 2015. Budget: 25561.26 \texteuro.}
+\cvlistitem{[RD project with industrial partner] With AIRBUS: Junction modeling of nonlinear frequency response of assembled structures. Extension of 2012 activities. Year 2015. Budget: 24200 \texteuro.}
+
+\section{RD fundraising}
+\cvlistitem{[National project] DPI2016-76934-R. OPTISAFE. Probabilistic optimization of intact and damaged aeronautical structures under dynamic and impact loading. Spanish Ministry of Economy and Competitiveness. Year 2016. Budget: 111600 \texteuro.}
+
+\nocite{*}
+\bibliographystyle{unsrt}
+\bibliography{publications_en}                    % 'publications' es el nombre del archivo BibTeX
+
+% Las publicaciones tomadas de un archivo BibTeX usando el paquete multibib
+%\section{Publicaciones}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}              % 'publications' es el nombre del archivo BibTeX
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}              % 'publications' es el nombre del archivo BibTeX
+
+%\clearpage\end{CJK*}                          % si esta redactando su CV en chino usando CJK, \clearpage es requerido por fancyhdr para que funcione correctamente con CJK, aunque esto eliminara la numeracion de pagina al dejar \lastpage como no definido
+\section{International research stays}
+\cvlistitem{Research stay from 1/10/2014 to 1/4/2015 (six months) at the Structural Impact Laboratory (NTNU, Norway) supervised by Prof. Magnus Langseth and Dr. David Morin.}
+
+\section{Scientific advisory}
+\cvlistitem{Reviewer in JCR journals \emph{International Journal of Mechanical Sciences}, \emph{Materials and Design}, \emph{Journal of Reinforced Plastics and Composites}, \emph{Engineering Optimization}, \emph{Computers and Structures}, \emph{Composites Part B}, \emph{Thin-Walled Structures}, and \emph{International Journal of Impact Engineering}.}
+
+\end{document}
+
+
+%% fin del archivo `template-es.tex'.
