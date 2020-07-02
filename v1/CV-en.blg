@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: CV-en.aux
+The style file: unsrt.bst
+Database file #1: publications_en.bib
+Warning--empty title in titulo
+Warning--empty journal in titulo
+Warning--empty year in titulo
+Warning--empty title in libros
+Warning--empty journal in libros
+Warning--empty year in libros
+Warning--empty title in titulo2
+Warning--empty journal in titulo2
+Warning--empty year in titulo2
+You've used 34 entries,
+            1791 wiz_defined-function locations,
+            620 strings with 11175 characters,
+and the built_in function-call counts, 7934 in all, are:
+= -- 540
+> -- 532
+< -- 2
++ -- 189
+- -- 155
+* -- 544
+:= -- 1308
+add.period$ -- 97
+call.type$ -- 34
+change.case$ -- 31
+chr.to.int$ -- 0
+cite$ -- 43
+duplicate$ -- 382
+empty$ -- 807
+format.name$ -- 155
+if$ -- 1755
+int.to.chr$ -- 0
+int.to.str$ -- 34
+missing$ -- 34
+newline$ -- 167
+num.names$ -- 36
+pop$ -- 167
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 131
+stack$ -- 0
+substring$ -- 279
+swap$ -- 71
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 9
+while$ -- 51
+width$ -- 36
+write$ -- 342
+(There were 9 warnings)
