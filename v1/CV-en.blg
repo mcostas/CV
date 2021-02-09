@@ -12,45 +12,45 @@ Warning--empty year in libros
 Warning--empty title in titulo2
 Warning--empty journal in titulo2
 Warning--empty year in titulo2
-You've used 34 entries,
+You've used 38 entries,
             1791 wiz_defined-function locations,
-            620 strings with 11175 characters,
-and the built_in function-call counts, 7934 in all, are:
-= -- 540
-> -- 532
+            639 strings with 12260 characters,
+and the built_in function-call counts, 8700 in all, are:
+= -- 589
+> -- 603
 < -- 2
-+ -- 189
-- -- 155
-* -- 544
-:= -- 1308
-add.period$ -- 97
-call.type$ -- 34
-change.case$ -- 31
++ -- 214
+- -- 176
+* -- 598
+:= -- 1456
+add.period$ -- 109
+call.type$ -- 38
+change.case$ -- 35
 chr.to.int$ -- 0
-cite$ -- 43
-duplicate$ -- 382
-empty$ -- 807
-format.name$ -- 155
-if$ -- 1755
+cite$ -- 47
+duplicate$ -- 414
+empty$ -- 864
+format.name$ -- 176
+if$ -- 1911
 int.to.chr$ -- 0
-int.to.str$ -- 34
-missing$ -- 34
-newline$ -- 167
-num.names$ -- 36
-pop$ -- 167
+int.to.str$ -- 38
+missing$ -- 38
+newline$ -- 187
+num.names$ -- 40
+pop$ -- 177
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 131
+skip$ -- 144
 stack$ -- 0
 substring$ -- 279
-swap$ -- 71
+swap$ -- 75
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 9
-while$ -- 51
-width$ -- 36
-write$ -- 342
+while$ -- 55
+width$ -- 40
+write$ -- 383
 (There were 9 warnings)
