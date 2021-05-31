@@ -14,43 +14,43 @@ Warning--empty journal in titulo2
 Warning--empty year in titulo2
 You've used 38 entries,
             1791 wiz_defined-function locations,
-            639 strings with 12260 characters,
-and the built_in function-call counts, 8700 in all, are:
-= -- 589
+            645 strings with 12272 characters,
+and the built_in function-call counts, 8832 in all, are:
+= -- 603
 > -- 603
 < -- 2
 + -- 214
 - -- 176
-* -- 598
-:= -- 1456
+* -- 616
+:= -- 1472
 add.period$ -- 109
 call.type$ -- 38
 change.case$ -- 35
 chr.to.int$ -- 0
 cite$ -- 47
-duplicate$ -- 414
-empty$ -- 864
+duplicate$ -- 416
+empty$ -- 880
 format.name$ -- 176
-if$ -- 1911
+if$ -- 1941
 int.to.chr$ -- 0
 int.to.str$ -- 38
 missing$ -- 38
 newline$ -- 187
 num.names$ -- 40
-pop$ -- 177
+pop$ -- 173
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
 skip$ -- 144
 stack$ -- 0
-substring$ -- 279
+substring$ -- 315
 swap$ -- 75
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 9
-while$ -- 55
+while$ -- 57
 width$ -- 40
-write$ -- 383
+write$ -- 385
 (There were 9 warnings)
