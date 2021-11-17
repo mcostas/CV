@@ -8,8 +8,7 @@ M.~Costas, M.~Edwards-Mowforth, M.~Kristoffersen, F.~Teixeira-Dias, V.~Brøtan,
   C.O. Paulsen, and T.~Børvik.
 \newblock {Ballistic impact resistance of additive manufactured high-strength
   maraging steel: an experimental study}.
-\newblock {\em Journal of Materials Processing Technology}, 2021 [submitted to
-  Materials and Design].
+\newblock {\em International Journal of Protective Structures}, 2021.
 
 \bibitem{COSTAS2021117133}
 Miguel Costas, David Morin, Johan~Kolstø Sønstabø, and Magnus Langseth.
@@ -124,6 +123,12 @@ Jacobo D{\'i}az and Miguel Costas.
 \bibitem{titulo2}
 \textbf{International conferences}.
 
+\bibitem{lsdyna21}
+V.~Andr\'e, D.~Morin, M.~Costas, and M.~Langseth.
+\newblock Neural network representationof mechanical fasteners inlarge-scale
+  analyses.
+\newblock In {\em 13th LS-DYNA European Conference, Ulm (Germany)}, 2021.
+
 \bibitem{esiam1}
 M.~Costas, D.~Morin, and M.~Langseth.
 \newblock An experimental and numerical study on the lateral crushing of
@@ -223,7 +228,7 @@ J.~D\'iaz, M.~Costas, L.~Romera, J.~Paz, and S.~Hern\'andez.
   (Netherlands)}, 2014.
 
 \bibitem{Costas_IABSE}
-L.~Romera, S.~Hern\'andez, M.~Costas, A.~Balomir, and P.~Ouro.
+L.~Romera, S.~Hern\'andez, M.~Costas, A.~Baldomir, and P.~Ouro.
 \newblock Assessment of seismic behaviour of portal bridges with double
   friction pendulum bearings.
 \newblock In {\em 7th IABSE Symphosium, Madrid (Spain)}, 2014.
