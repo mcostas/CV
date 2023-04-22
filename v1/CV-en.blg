@@ -1,5 +1,5 @@
-This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: CV-en.aux
 The style file: unsrt.bst
 Database file #1: publications_en.bib
@@ -12,45 +12,45 @@ Warning--empty year in libros
 Warning--empty title in titulo2
 Warning--empty journal in titulo2
 Warning--empty year in titulo2
-You've used 39 entries,
+You've used 46 entries,
             1791 wiz_defined-function locations,
-            649 strings with 12466 characters,
-and the built_in function-call counts, 9037 in all, are:
-= -- 615
-> -- 617
+            678 strings with 13983 characters,
+and the built_in function-call counts, 10584 in all, are:
+= -- 706
+> -- 733
 < -- 2
-+ -- 219
-- -- 180
-* -- 627
-:= -- 1505
-add.period$ -- 112
-call.type$ -- 39
-change.case$ -- 36
++ -- 260
+- -- 214
+* -- 724
+:= -- 1762
+add.period$ -- 133
+call.type$ -- 46
+change.case$ -- 43
 chr.to.int$ -- 0
-cite$ -- 48
-duplicate$ -- 428
-empty$ -- 905
-format.name$ -- 180
-if$ -- 1988
+cite$ -- 55
+duplicate$ -- 509
+empty$ -- 1077
+format.name$ -- 214
+if$ -- 2333
 int.to.chr$ -- 0
-int.to.str$ -- 39
-missing$ -- 39
-newline$ -- 192
-num.names$ -- 41
-pop$ -- 180
+int.to.str$ -- 46
+missing$ -- 46
+newline$ -- 227
+num.names$ -- 48
+pop$ -- 223
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 147
+skip$ -- 168
 stack$ -- 0
-substring$ -- 315
-swap$ -- 77
+substring$ -- 333
+swap$ -- 90
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 9
-while$ -- 58
-width$ -- 41
-write$ -- 395
+while$ -- 66
+width$ -- 48
+write$ -- 466
 (There were 9 warnings)

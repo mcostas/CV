@@ -3,6 +3,12 @@
 \bibitem{titulo}
 \textbf{Research articles in JCR journals}.
 
+\bibitem{victor1}
+V.~Andr\'e, M.~Costas, M.~Langseth, and D.~Morin.
+\newblock {Neural network modelling of mechanical joints for the application in
+  large-scale crash analyses}.
+\newblock {\em International Journal of Impact Engineering}, 177:104490, 2023.
+
 \bibitem{maisie}
 M.~Costas, M.~Edwards-Mowforth, M.~Kristoffersen, F.~Teixeira-Dias, V.~Brøtan,
   C.O. Paulsen, and T.~Børvik.
@@ -122,6 +128,45 @@ Jacobo D{\'i}az and Miguel Costas.
 
 \bibitem{titulo2}
 \textbf{International conferences}.
+
+\bibitem{icilsm22_1}
+T.~Børvik, M~Costas, M.~Edwards-Mowforth, and M.~Kristoffersen.
+\newblock Additively manufactured protective structures.
+\newblock In {\em ICILSM 2022, Trondheim (Norway)}, 2022.
+
+\bibitem{icilsm22_2}
+R.~Del~Cuvillo, M.~Costas, V.~Aune, T.~Børvik, J.~Artero-Guerrero,
+  J.~Pernas-Sánchez, and J.~Puente.
+\newblock Carbon fibre composite exposed to blast loading: A preliminary study.
+\newblock In {\em ICILSM 2022, Trondheim (Norway)}, 2022.
+
+\bibitem{icilsm22_3}
+M.~Edwards-Mowforth, S.~Thompson, M.~Costas, M.~Kristoffersen, T.~Børvik, and
+  F.~Teixeira-Días.
+\newblock A numerical modelling and generative deep learning approach to the
+  ballistic impact resistance of additive manufactured maraging steel plates.
+\newblock In {\em ICILSM 2022, Trondheim (Norway)}, 2022.
+
+\bibitem{lwag}
+M.~Edwards-Mowforth, S.~Thompson, M.~Costas, M.~Kristoffersen, T.~Børvik, and
+  F.~Teixeira-Dias.
+\newblock A numerical modelling and deep learning approach to the ballistic
+  impact resistance of additive manufactured maraging steel.
+\newblock In {\em Light-Weight Armour for Defence \& Security LWAG 2022,
+  Fraunhofer (Germany)}, 2022.
+
+\bibitem{nordic}
+D.~Morin, M.~Costas, and M.~Langseth.
+\newblock Modelling of fracture in aluminium extrusions in large scale
+  analyses.
+\newblock In {\em Nordic LS-DYNA users' conference 2022, Gothenburg (Sweden)},
+  2021.
+
+\bibitem{eccomas}
+D.~Obkircher, M.~Costas, T.~Børvik, and O.S. Hopperstad.
+\newblock Shape and size optimization of a complex extruded aluminium profile
+  for protection of battery trays in electric vehicles.
+\newblock In {\em ECCOMAS Congress 2022, Oslo (Norway)}, 2022.
 
 \bibitem{lsdyna21}
 V.~Andr\'e, D.~Morin, M.~Costas, and M.~Langseth.
