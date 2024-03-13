@@ -3,6 +3,13 @@
 \bibitem{titulo}
 \textbf{Research articles in JCR journals}.
 
+\bibitem{victor2}
+V.~Andr\'e, M.~Costas, M.~Langseth, and D.~Morin.
+\newblock {Behavior and large-scale modeling of multi-sheet aluminum
+  connections with self-piercing rivets}.
+\newblock {\em Journal of Manufacturing Science and Engineering}, 145:101010,
+  2023.
+
 \bibitem{victor1}
 V.~Andr\'e, M.~Costas, M.~Langseth, and D.~Morin.
 \newblock {Neural network modelling of mechanical joints for the application in
@@ -17,15 +24,14 @@ M.~Costas, M.~Edwards-Mowforth, M.~Kristoffersen, F.~Teixeira-Dias, V.~Brøtan,
 \newblock {\em International Journal of Protective Structures}, 2021.
 
 \bibitem{COSTAS2021117133}
-Miguel Costas, David Morin, Johan~Kolstø Sønstabø, and Magnus Langseth.
+M~Costas, D.~Morin, JK. Sønstabø, and M.~Langseth.
 \newblock On the effect of pilot holes on the mechanical behaviour of
   flow-drill screw joints. experimental tests and mesoscale numerical
   simulations.
 \newblock {\em Journal of Materials Processing Technology}, 294:117133, 2021.
 
 \bibitem{JOHANNESSEN2021106673}
-Håkon Johannessen, Oddvar~Hestetræet Johannessen, Miguel Costas, Arild~Holm
-  Clausen, and Johan~Kolstø Sønstabø.
+J.~Johannessen, OH. Johannessen, M.~Costas, AH. Clausen, and JK. Sønstabø.
 \newblock Experimental and numerical study of notched {SHS} made of different
   {S355} steels.
 \newblock {\em Journal of Constructional Steel Research}, 182:106673, 2021.
@@ -128,6 +134,30 @@ Jacobo D{\'i}az and Miguel Costas.
 
 \bibitem{titulo2}
 \textbf{International conferences}.
+
+\bibitem{maisie1}
+M.~Edwards-Mowforth, M.~Costas, M.~Kristoffersen, F.~Teixeira-Dias, and
+  T.~Børvik.
+\newblock On the ballistic impact resistance of additive manufactured maraging
+  steel targets compared to that of cast targets.
+\newblock In {\em BSSM 17th International Conference on Advances in
+  Experimental Mechanics, Glasgow (UK)}, 2023.
+
+\bibitem{maisie2}
+M.~Edwards-Mowforth, M.~Costas, M.~Kristoffersen, F.~Teixeira-Dias, and
+  T.~Børvik.
+\newblock On the ballistic impact resistance of additive manufactured maraging
+  steel targets compared to that of cast targets.
+\newblock In {\em Additively Manufactured Ballistic Protection, FFI AMMA2023 -
+  Additive Manufacturing for Military Applications, Oslo (Norway)}, 2023.
+
+\bibitem{maisie3}
+M.~Edwards-Mowforth, M.~Costas, M.~Kristoffersen, F.~Teixeira-Dias, and
+  T.~Børvik.
+\newblock On the ballistic impact resistance of additive manufactured maraging
+  steel targets compared to that of cast targets.
+\newblock In {\em 33rd International Symposium on Ballistics - ISB 2023, Bruges
+  (Belgium)}, 2023.
 
 \bibitem{icilsm22_1}
 T.~Børvik, M~Costas, M.~Edwards-Mowforth, and M.~Kristoffersen.

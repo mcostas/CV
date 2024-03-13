@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.9.15)  22 APR 2023 23:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  13 MAR 2024 11:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**cv-en.tex
+**CV-en.tex
 (./CV-en.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (./moderncv.cls
@@ -863,7 +863,7 @@ LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10> not available
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./foto_yo_redondo.png (PNG
  copy)>]
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-108.
+114.
  (/usr/share/texmf/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -875,17 +875,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 10.
  [3]
-[4]) [5] [6] (./CV-en.aux)
+[4] [5]) [6] (./CV-en.aux)
 Package rerunfilecheck Info: File `CV-en.out' has not changed.
 (rerunfilecheck)             Checksum: 5F0DB28C858751D36E285A222D65BECC;2156.
  ) 
 Here is how much of TeX's memory you used:
- 22774 strings out of 480247
- 428027 string characters out of 5896151
- 745262 words of memory out of 5000000
- 40043 multiletter control sequences out of 15000+600000
- 541050 words of font info for 149 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 22795 strings out of 480171
+ 428286 string characters out of 5894489
+ 746618 words of memory out of 5000000
+ 40056 multiletter control sequences out of 15000+600000
+ 541862 words of font info for 156 fonts, out of 8000000 for 9000
+ 59 hyphenation exceptions out of 8191
  114i,12n,108p,1002b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/d
 vips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/shar
@@ -896,10 +896,10 @@ o10.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso
 17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso9.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on CV-en.pdf (6 pages, 359950 bytes).
+Output written on CV-en.pdf (6 pages, 362828 bytes).
 PDF statistics:
- 220 PDF objects out of 1000 (max. 8388607)
- 186 compressed objects within 2 object streams
- 68 named destinations out of 1000 (max. 500000)
+ 224 PDF objects out of 1000 (max. 8388607)
+ 190 compressed objects within 2 object streams
+ 72 named destinations out of 1000 (max. 500000)
  39050 words of extra memory for PDF output out of 42996 (max. 10000000)
 

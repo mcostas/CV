@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: CV-en.aux
 The style file: unsrt.bst
@@ -12,45 +12,45 @@ Warning--empty year in libros
 Warning--empty title in titulo2
 Warning--empty journal in titulo2
 Warning--empty year in titulo2
-You've used 46 entries,
+You've used 50 entries,
             1791 wiz_defined-function locations,
-            678 strings with 13983 characters,
-and the built_in function-call counts, 10584 in all, are:
-= -- 706
-> -- 733
+            691 strings with 14603 characters,
+and the built_in function-call counts, 11477 in all, are:
+= -- 761
+> -- 798
 < -- 2
-+ -- 260
-- -- 214
-* -- 724
-:= -- 1762
-add.period$ -- 133
-call.type$ -- 46
-change.case$ -- 43
++ -- 283
+- -- 233
+* -- 782
+:= -- 1911
+add.period$ -- 145
+call.type$ -- 50
+change.case$ -- 47
 chr.to.int$ -- 0
-cite$ -- 55
-duplicate$ -- 509
-empty$ -- 1077
-format.name$ -- 214
-if$ -- 2333
+cite$ -- 59
+duplicate$ -- 554
+empty$ -- 1174
+format.name$ -- 233
+if$ -- 2531
 int.to.chr$ -- 0
-int.to.str$ -- 46
-missing$ -- 46
-newline$ -- 227
-num.names$ -- 48
-pop$ -- 223
+int.to.str$ -- 50
+missing$ -- 50
+newline$ -- 247
+num.names$ -- 52
+pop$ -- 245
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 168
+skip$ -- 180
 stack$ -- 0
-substring$ -- 333
-swap$ -- 90
+substring$ -- 351
+swap$ -- 97
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 9
-while$ -- 66
-width$ -- 48
-write$ -- 466
+while$ -- 71
+width$ -- 52
+write$ -- 507
 (There were 9 warnings)
